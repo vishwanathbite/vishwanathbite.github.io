@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.literaryrides.vocabpro",
+    "sha256_cert_fingerprints": ["B7:11:75:45:E0:94:9A:CA:E0:87:D4:04:9F:C0:9E:EA:15:C4:7E:9A:0A:C5:C1:ED:CE:FC:D5:65:37:E0:F4:64"]
+  }
+}]
